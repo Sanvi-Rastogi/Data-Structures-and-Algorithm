@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 #define max 50
 
  struct stack
