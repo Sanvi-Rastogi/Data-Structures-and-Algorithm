@@ -1,5 +1,5 @@
 //search and menu creation
-#include<stdio.h>  
+#include<stdio.h> 
 #include<stdlib.h>  
 
 struct node  
