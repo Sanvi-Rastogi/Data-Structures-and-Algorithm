@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define MAX 5  
-
+ 
 struct Queue {
     int arr[MAX];
     int front, rear;
